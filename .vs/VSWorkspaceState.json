@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\app",
+    "\\app\\app"
   ],
-  "SelectedNode": "\\C:\\Users\\SCC\\Source\\Repos\\pythonapp",
+  "SelectedNode": "\\app\\app\\asgi.py",
   "PreviewInSolutionExplorer": false
 }
