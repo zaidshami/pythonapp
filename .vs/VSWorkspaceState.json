@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
     "\\app",
-    "\\app\\app"
+    "\\app\\app",
+    "\\app\\core",
+    "\\app\\core\\tests",
+    "\\app\\user",
+    "\\app\\user\\tests"
   ],
-  "SelectedNode": "\\app\\app\\asgi.py",
+  "SelectedNode": "\\app\\user\\tests\\test_user_api.py",
   "PreviewInSolutionExplorer": false
 }
