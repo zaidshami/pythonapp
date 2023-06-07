@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\app",
-    "\\app\\core",
     "\\app\\core\\tests",
-    "\\app\\user",
-    "\\app\\user\\tests"
+    "\\app\\recipe",
+    "\\app\\recipe\\tests"
   ],
-  "SelectedNode": "\\app\\user\\tests\\test_user_api.py",
+  "SelectedNode": "\\app\\recipe\\tests\\test_recipe_api.py",
   "PreviewInSolutionExplorer": false
 }
